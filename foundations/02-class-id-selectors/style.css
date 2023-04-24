@@ -1,0 +1,20 @@
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#post {
+    font-size: 24px;
+}
+
+div {
+    color:blue;
+    font-size: 36px;
+}
+
+#title {
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
